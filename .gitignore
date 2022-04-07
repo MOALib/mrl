@@ -1,0 +1,5 @@
+*.exe
+*.stackdump
+.vscode/*.log
+html/
+latex/
